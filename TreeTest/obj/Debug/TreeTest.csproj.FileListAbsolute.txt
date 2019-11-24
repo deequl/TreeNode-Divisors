@@ -1,0 +1,7 @@
+C:\Users\dakoh\source\repos\TreeTest\TreeTest\bin\Debug\TreeTest.exe.config
+C:\Users\dakoh\source\repos\TreeTest\TreeTest\bin\Debug\TreeTest.exe
+C:\Users\dakoh\source\repos\TreeTest\TreeTest\bin\Debug\TreeTest.pdb
+C:\Users\dakoh\source\repos\TreeTest\TreeTest\obj\Debug\TreeTest.csprojAssemblyReference.cache
+C:\Users\dakoh\source\repos\TreeTest\TreeTest\obj\Debug\TreeTest.csproj.CoreCompileInputs.cache
+C:\Users\dakoh\source\repos\TreeTest\TreeTest\obj\Debug\TreeTest.exe
+C:\Users\dakoh\source\repos\TreeTest\TreeTest\obj\Debug\TreeTest.pdb
